@@ -1,4 +1,4 @@
-# Copyright (C) 2010 SkyCore <http://github.com/imetallica/SkyCore>
+# Copyright (C) 2010 SkyCore <http://github.com/SkyCore/SkyCore>
 
 import sys
 sys.path.append('../lang')
